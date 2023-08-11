@@ -1,0 +1,18 @@
+{
+  "name": "neokrisys",
+  "version": "1.0.0",
+  "description": "neokrisys.com site",
+  "scripts": {
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiglesiasabio/neokrisys.git"
+  },
+  "author": "jiglesiasabio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiglesiasabio/neokrisys/issues"
+  },
+  "homepage": "neokrisys.com"
+}
